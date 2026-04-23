@@ -1,24 +1,24 @@
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Wed, 22 Apr 2026 21:08:35 +0000
+Date: Thu, 23 Apr 2026 14:37:48 +0000
 Description: Millsonic Player Linux packages
 Label: Millsonic
 Origin: Millsonic
 Suite: stable
 MD5Sum:
- b0a1bf1bd11aeaf3336570105f452bfa              187 Release
- f57b18e685e68c53a651e56d8d9e9805              816 main/binary-amd64/Packages
- 9c840aef28e61bdc23566e6d819241b2              520 main/binary-amd64/Packages.gz
+ 97ba1a94eff153de3b970e6c300ee29c              187 Release
+ f2ea24479d4cc3cd8e7b98847164b36e              816 main/binary-amd64/Packages
+ d9ca58be8a857d62753d926f23e84383              519 main/binary-amd64/Packages.gz
 SHA1:
- 3a2dd034ea95a7bd5586968e3f142d1360cf3fd0              187 Release
- d0c9c673e63f57bd1651ae7c63fcac5d41d86119              816 main/binary-amd64/Packages
- 9d35e7f7452c1d1d0751e073614c20f89ac40d43              520 main/binary-amd64/Packages.gz
+ 6ce45cda0076c8b381a664eeb2467e8372afa2c4              187 Release
+ 975e4e13adac848bcc82b0524a4edfb9e3c487b6              816 main/binary-amd64/Packages
+ dd3f0305c6af1d289ca28074d32cecae3454dcc2              519 main/binary-amd64/Packages.gz
 SHA256:
- 0c4150af50101e2479c8d7eb6827a98fa95c329e4aa081dc3927f23b24eeacf4              187 Release
- 68d6e23c8a43f4f3a22b907b01ceeda9c6d40e6a601c9b953ba0ff201069b7d6              816 main/binary-amd64/Packages
- 95a8868de080afe9cadc87aa64ec63836a9ce02c5958e5127e0fcd2b90fa3491              520 main/binary-amd64/Packages.gz
+ e8347c26b656d25ec1e92909fbec1855b0d5e5a52365564cf2775dab7965cee5              187 Release
+ 2ad625e99242e5d6a71e7f3622a0e16163c9ab68faa43297a2e03c27c0344fe7              816 main/binary-amd64/Packages
+ 85a9ef6e29ba5e31d70ff84616feb647b358b6197b2e34118a4853583c0d36d0              519 main/binary-amd64/Packages.gz
 SHA512:
- bb30b6c3e2289442e4d114bb77d3d40476a7b0dac0d49c8ec1e11b5d98719174562b3c68754b1f1c7c75e69bc82e4a15997ac0af80f22448dc65a84d5bb19e7e              187 Release
- 7b8f3e7b52b1689a67b4d9a405c90b85b3926de9296bebba89c95f97988535b92d5c8c693afd48d0f567eb652f8caa90f2b402f857ccd3196534a8720a9c9b91              816 main/binary-amd64/Packages
- b6a75f36f4bd5e63f706c8470c8b31415ab7e75228e4c053536d7d34756dfb2fc52cc0b42b7d9eec0a4be5a5c4ced290cb234ab790a0174b2fa1a2451156fc20              520 main/binary-amd64/Packages.gz
+ 4027fad05e1fd55b6125e7d15198a3bc575fb97a7636f29588c0c09487af846ab0a6fcd03b86af8b896b69efa26125fcc4721fb310d2b3da13dc0366c5729ec4              187 Release
+ 02be7c158c3883c76426af1e0453745fa3dc5de427297fa5730de0a563c3640ee433a79f275e15111d08cc4bf54ef1964ab2839df2d5b4ec46417e446d4135fb              816 main/binary-amd64/Packages
+ 41790b53c0f14ef9f106f960f1ce47651b2511130440a9a04436c13cd15d5c8af084b4d74aef12244907dbc0c2c33c13ac6455d7ad0d7aa0661301333dc20881              519 main/binary-amd64/Packages.gz

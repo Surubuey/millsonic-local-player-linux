@@ -1,16 +1,16 @@
 Package: millsonic-local-player-windows
-Version: 3.0.40
+Version: 3.0.41
 Architecture: amd64
 Maintainer: Kicknerds <ignaciomiller@gmail.com>
 Installed-Size: 261865
 Depends: libgtk-3-0, libnotify4, libnss3, xdg-utils, libatspi2.0-0, libdrm2, libgbm1, libxcb-dri3-0, kde-cli-tools | kde-runtime | trash-cli | libglib2.0-bin | gvfs-bin
 Recommends: pulseaudio | libasound2
 Suggests: gir1.2-gnomekeyring-1.0, libgnome-keyring0, lsb-release
-Filename: pool/main/m/millsonic-local-player-windows/millsonic-local-player-windows_3.0.40_amd64.deb
-Size: 81524764
-MD5sum: a3ef5f0dc2009d2928793e8bf7d20576
-SHA1: 16925f4fb80b522ee21eb05acb4856087af83607
-SHA256: 7fad31cd59c53a581d87a41ec68c52de71254cc373558bf4977bf4a5180731a4
+Filename: pool/main/m/millsonic-local-player-windows/millsonic-local-player-windows_3.0.41_amd64.deb
+Size: 81532028
+MD5sum: b2e47d27bf1dcfc5dfd75218ecc579f1
+SHA1: 2abf29ad35a304d4d1a2bc549f6d17bf0bbc2c96
+SHA256: 6ca664d2a811eb05961a898bc332ec072a9399487cd5aeecb4677dda1cc59569
 Section: sound
 Priority: optional
 Description: A music player for Millsonic radios
