@@ -7,10 +7,10 @@ Depends: libgtk-3-0, libnotify4, libnss3, xdg-utils, libatspi2.0-0, libdrm2, lib
 Recommends: pulseaudio | libasound2
 Suggests: gir1.2-gnomekeyring-1.0, libgnome-keyring0, lsb-release
 Filename: pool/main/m/millsonic-local-player-windows/millsonic-local-player-windows_3.0.42_amd64.deb
-Size: 81515356
-MD5sum: 6adfd97a05cca1b5328f64dab192c435
-SHA1: 8586a09fdd69a84a2547d8a4ffae88abc8e7229c
-SHA256: 47d58d5d4bbe1a64849d6a97952bf09f39e8866381678f67a5674b631afdccd2
+Size: 81533348
+MD5sum: 56a350cf34836cdc38968fec0ab0657c
+SHA1: c231b46941df9d24dd135e23cc462a5396414708
+SHA256: fcfcf709ef5a0af320cb27275fa839a2c1ebe472282a044786ad4d2270a4cb68
 Section: sound
 Priority: optional
 Description: A music player for Millsonic radios
